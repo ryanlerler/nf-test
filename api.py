@@ -1,5 +1,6 @@
 import os
 import json
+import spacy
 
 from fastapi import FastAPI
 from openai import OpenAI
@@ -8,6 +9,13 @@ from pydantic import BaseModel
 
 load_dotenv()
 
+nlp = spacy.load("en_core_web_sm")
+
+def extract_entities(question):
+    doc = nlp(question)
+    print(doc.ents)
+    entities = [ent.text.lower() for ent in doc.ents]
+    return entities
 
 class UserQuery(BaseModel):
     user_query: str
@@ -19,8 +27,35 @@ client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 with open('feeds.json', 'r', encoding='utf-8') as file:
     news_database = json.load(file)
 
+# Possible queries:
+# ONE condition
+# ask for certain no of articles
+# ask for articles in certain category/ies
+# ask for articles published on certain day(s)
+
+# TWO conditions
+# ask for certain no of articles in certain category/ies
+# ask for articles in certain category/ies published on certain day(s)
+# ask for certain no of articles published on certain day(s)
+
+# THREE conditions
+# ask for certain no of articles in certain category/ies published on certain day(s)
+
+# Out-of-scope queries
+# ask for too many articles
+# ask for articles out of the available category/ies
+# ask for articles out of the available published dates
+# ask for too many articles AND articles out of the available category/ies
+# ask for too many articles AND articles out of the published dates
+# ask for articles out of the available category/ies AND articles out of the published dates
+# ask for anything which is not related to the news database
+
+
 @app.post('/gpt')
 def prompt(user_query: UserQuery):
+    entities = extract_entities(user_query.user_query.lower())
+    print(entities)
+
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
