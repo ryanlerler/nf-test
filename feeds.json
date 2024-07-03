@@ -1,36 +1,698 @@
 [
   {
-    "title": "Years Later, Philippines Reckons With Duterte’s Brutal Drug War",
-    "link": "https://www.nytimes.com/2024/06/29/world/asia/philippines-drug-war-duterte-justice.html",
-    "summary": "A president’s vow to fight drugs unleashed violence and fostered a culture of impunity. But the crimes are finally getting a look, including from the International Criminal Court.",
-    "author": "Sui-Lee Wee and Camille Elemia",
-    "published": "Sat, 29 Jun 2024 14:25:25 +0000",
+    "title": "Middle East Crisis: Israeli Military Orders Evacuations in Southeastern Gaza",
+    "link": "https://www.nytimes.com/live/2024/07/01/world/israel-gaza-war-hamas",
+    "summary": "The orders are typically an indication that a ground assault is planned. The United Nations condemned the order as doctors scrambled to move patients from a hospital in the area designated for evacuation.",
+    "author": "The New York Times",
+    "published": "Tue, 02 Jul 2024 01:34:21 +0000",
+    "tags": []
+  },
+  {
+    "title": "France’s Snap Election: Here Is What’s at Stake",
+    "link": "https://www.nytimes.com/2024/07/01/world/europe/france-election-national-rally.html",
+    "summary": "The far-right National Rally won big in the first round of voting. Just how big will not be clear until after runoffs are held on July 7.",
+    "author": "Aurelien Breeden",
+    "published": "Mon, 01 Jul 2024 20:25:55 +0000",
     "tags": [
-      "Philippines",
-      "Duterte, Rodrigo",
-      "Duterte, Sara",
-      "Marcos, Ferdinand Jr",
-      "Drug Abuse and Traffic",
-      "International Criminal Court",
-      "Immunity from Prosecution",
-      "Murders, Attempted Murders and Homicides",
-      "Police Brutality, Misconduct and Shootings"
+      "France",
+      "Elections",
+      "Macron, Emmanuel (1977- )",
+      "Politics and Government",
+      "Legislatures and Parliaments",
+      "Right-Wing Extremism and Alt-Right",
+      "Illegal Immigration",
+      "Anti-Semitism",
+      "Nationalism (Theory and Philosophy)",
+      "Bardella, Jordan (1995- )",
+      "Le Pen, Marine",
+      "National Rally (France)"
     ]
   },
   {
-    "title": "Motorcycles and Mayhem in Ukraine’s East",
-    "link": "https://www.nytimes.com/2024/06/29/world/europe/ukraine-russia-war-donbas.html",
-    "summary": "In the latest tactic for storming trenches, Russians use motorcycles and dune buggies to speed across open space, often into a hail of gunfire.",
-    "author": "Andrew E. Kramer, Maria Varenikova and Daniel Berehulak",
-    "published": "Sat, 29 Jun 2024 16:51:04 +0000",
+    "title": "The Center Collapses in France, Leaving Macron Marooned",
+    "link": "https://www.nytimes.com/2024/07/01/world/europe/macron-election-national-rally.html",
+    "summary": "Squeezed by the far-right National Rally party and the left, President Emmanuel Macron faces a country that may prove ungovernable.",
+    "author": "Roger Cohen",
+    "published": "Mon, 01 Jul 2024 19:36:17 +0000",
     "tags": [
+      "France",
+      "Elections",
+      "Macron, Emmanuel (1977- )",
+      "France Unbowed (Political Party)",
+      "National Rally (France)"
+    ]
+  },
+  {
+    "title": "Ukraine Says It Foiled Russian Plot Echoing String of Coup Bids",
+    "link": "https://www.nytimes.com/2024/07/01/world/europe/ukraine-coup-plot.html",
+    "summary": "While the viability of the plan was not immediately clear, officials said it was a reminder that the Kremlin remained determined to bring down President Volodymyr Zelensky.",
+    "author": "Marc Santora",
+    "published": "Mon, 01 Jul 2024 20:32:32 +0000",
+    "tags": [
+      "Politics and Government",
       "Defense and Military Forces",
       "Russian Invasion of Ukraine (2022)",
+      "Coups D'Etat and Attempted Coups D'Etat",
+      "Zelensky, Volodymyr",
+      "Kyiv (Ukraine)",
+      "Moscow (Russia)",
+      "Russia",
+      "Ukraine"
+    ]
+  },
+  {
+    "title": "France’s Far Right Scores Big in First Round of Elections, Polling Suggests",
+    "link": "https://www.nytimes.com/2024/06/30/world/europe/france-elections.html",
+    "summary": "A surprise decision by President Emmanuel Macron to hold a snap election appears to have backfired badly, giving the National Rally a decisive victory.",
+    "author": "Roger Cohen",
+    "published": "Mon, 01 Jul 2024 07:37:16 +0000",
+    "tags": [
+      "France",
+      "Elections",
+      "Right-Wing Extremism and Alt-Right",
+      "National Rally (France)",
+      "Macron, Emmanuel (1977- )",
+      "Le Pen, Marine",
+      "Bardella, Jordan (1995- )",
+      "France Unbowed (Political Party)",
+      "Politics and Government",
+      "National Front (France)"
+    ]
+  },
+  {
+    "title": "Nine Killed in Central Seoul After Car Plows Into Pedestrians",
+    "link": "https://www.nytimes.com/2024/07/01/world/asia/seoul-korea-accident.html",
+    "summary": "The deadly crash occurred near a busy intersection in front of city hall in central Seoul.",
+    "author": "Choe Sang-Hun",
+    "published": "Mon, 01 Jul 2024 23:31:55 +0000",
+    "tags": [
+      "Deaths (Fatalities)",
+      "Traffic Accidents and Safety",
+      "Seoul (South Korea)",
+      "South Korea"
+    ]
+  },
+  {
+    "title": "For South Africa’s Cabinet, Bigger May Not Mean Better",
+    "link": "https://www.nytimes.com/2024/07/01/world/africa/south-africa-largest-cabinet-cyril-ramaphosa.html",
+    "summary": "To accommodate a broad and diverse alliance of parties, President Cyril Ramaphosa increased the size of his executive team. Now the challenge is getting a diverse group of politicians to agree.",
+    "author": "John Eligon",
+    "published": "Mon, 01 Jul 2024 20:01:06 +0000",
+    "tags": [
+      "Politics and Government",
+      "Ramaphosa, Cyril",
+      "African National Congress",
+      "Black People",
+      "Legislatures and Parliaments",
+      "Agriculture and Farming",
+      "Elections",
+      "Democratic Alliance (South Africa)",
+      "Steenhuisen, John",
+      "Africa",
+      "South Africa"
+    ]
+  },
+  {
+    "title": "Five Takeaways From France’s Snap Election",
+    "link": "https://www.nytimes.com/2024/07/01/world/europe/france-election-takeaways.html",
+    "summary": "It was a big day for the far-right National Rally. Just how big will not be clear until after a second round of voting.",
+    "author": "Aurelien Breeden",
+    "published": "Mon, 01 Jul 2024 17:12:26 +0000",
+    "tags": [
+      "Right-Wing Extremism and Alt-Right",
+      "France",
+      "Elections",
+      "National Rally (France)",
+      "Macron, Emmanuel (1977- )",
+      "Politics and Government",
+      "Attal, Gabriel",
+      "Bardella, Jordan (1995- )",
+      "Le Pen, Marine"
+    ]
+  },
+  {
+    "title": "Palestinian Fighters in West Bank Seek to Emulate Hamas in Gaza",
+    "link": "https://www.nytimes.com/2024/07/01/world/middleeast/palestinian-fighters-west-bank.html",
+    "summary": "In the towns of Tulkarm and Jenin, armed militants are flocking to more hard-line factions, such as Hamas and Islamic Jihad, while the Israeli military tries to rein them in.",
+    "author": "Steven Erlanger and Sergey Ponomarev",
+    "published": "Mon, 01 Jul 2024 20:50:18 +0000",
+    "tags": [
+      "Israel-Gaza War (2023- )",
+      "Palestinians",
+      "Fatah, Al",
+      "Hamas",
+      "Palestinian Authority",
+      "Palestinian Islamic Jihad",
+      "West Bank",
+      "Jenin (West Bank)",
+      "Gaza Strip",
+      "Israel"
+    ]
+  },
+  {
+    "title": "A Culture War Erupted Over U.K. Stately Homes. Who Won?",
+    "link": "https://www.nytimes.com/2024/07/01/world/europe/uk-national-trust.html",
+    "summary": "A battle over the history of Britain’s prized country houses offers a window into the national mood before a pivotal election.",
+    "author": "Megan Specia",
+    "published": "Mon, 01 Jul 2024 09:07:26 +0000",
+    "tags": [
+      "Colonization",
+      "Historic Buildings and Sites",
+      "Slavery (Historical)",
+      "Parks and Other Recreation Areas",
+      "National Trust Group (England)",
+      "England",
+      "Great Britain"
+    ]
+  },
+  {
+    "title": "Ismail Kadare Dies at 88; Novels Brought Albania’s Plight to the World",
+    "link": "https://www.nytimes.com/2024/07/01/obituaries/ismail-kadare-dead.html",
+    "summary": "Often compared to Orwell and Kafka, he walked a political tightrope with works that offered veiled criticism of his totalitarian state.",
+    "author": "Rusha Haljuci",
+    "published": "Mon, 01 Jul 2024 20:21:28 +0000",
+    "tags": [
+      "Deaths (Obituaries)",
+      "Kadare, Ismail",
+      "Albania",
+      "Writing and Writers",
+      "Books and Literature",
+      "Human Rights and Human Rights Violations",
+      "Man Booker International Prize"
+    ]
+  },
+  {
+    "title": "Myanmar Shop Owners Are Being Jailed for Increasing Wages",
+    "link": "https://www.nytimes.com/2024/07/01/world/asia/myanmar-junta-inflation-arrests.html",
+    "summary": "Myanmar’s junta, facing a growing popular rebellion, has plunged the country into economic crisis, reversing gains from a decade of civilian leadership.",
+    "author": "Richard C. Paddock",
+    "published": "Tue, 02 Jul 2024 02:41:00 +0000",
+    "tags": [
+      "Currency",
+      "Inflation (Economics)",
+      "Myanmar",
+      "Prices (Fares, Fees and Rates)"
+    ]
+  },
+  {
+    "title": "India Wins T20 Cricket World Cup, Stamping Its Domination of the Sport",
+    "link": "https://www.nytimes.com/2024/06/30/world/asia/india-wins-cricket-world-cup.html",
+    "summary": "In India, cricket has become immensely profitable and a destination for the world’s best players. But a tournament victory had eluded it for many years.",
+    "author": "Mujib Mashal",
+    "published": "Tue, 02 Jul 2024 00:13:18 +0000",
+    "tags": [
+      "Cricket (Game)",
+      "India",
+      "Indian Premier League",
+      "Women's Premier League (Indian Cricket League)",
+      "Women and Girls"
+    ]
+  },
+  {
+    "title": "Russia Maintains Punishing Pace of Deadly Strikes on Ukrainian Cities",
+    "link": "https://www.nytimes.com/2024/06/30/world/europe/russia-missile-strikes-ukraine-war.html",
+    "summary": "A barrage on Vilniansk, a town in the south, killed seven, including three children, as attacks across Ukraine in the past few days have left dozens dead, according to local authorities.",
+    "author": "Marc Santora",
+    "published": "Sun, 30 Jun 2024 17:31:02 +0000",
+    "tags": [
       "Civilian Casualties",
-      "Bakhmut (Ukraine)",
-      "Chasiv Yar (Ukraine)",
-      "Donbas (Ukraine)",
-      "Pokrovsk (Ukraine)"
+      "Drones (Pilotless Planes)",
+      "Missiles and Missile Defense Systems",
+      "Russian Invasion of Ukraine (2022)",
+      "Electric Light and Power",
+      "Power Failures and Blackouts",
+      "Bombs and Explosives",
+      "Zelensky, Volodymyr",
+      "Ukraine",
+      "Russia"
+    ]
+  },
+  {
+    "title": "Prime Minister Viktor Orban of Hungary Visits Ukraine",
+    "link": "https://www.nytimes.com/2024/07/02/world/europe/orban-hungary-ukraine-zelensky.html",
+    "summary": "Prime Minister Viktor Orban of Hungary, who has resisted European military and financial aid for Ukraine, traveled to the country to meet with President Volodymyr Zelensky.",
+    "author": "Marc Santora",
+    "published": "Tue, 02 Jul 2024 08:22:11 +0000",
+    "tags": [
+      "Orban, Viktor",
+      "Zelensky, Volodymyr",
+      "Russian Invasion of Ukraine (2022)",
+      "Hungary",
+      "Ukraine",
+      "International Relations"
+    ]
+  },
+  {
+    "title": "North Korea’s Latest Missile Test Suggests Arms Race With South",
+    "link": "https://www.nytimes.com/2024/07/02/world/asia/north-korea-missile-test.html",
+    "summary": "The North said it tested a missile with a “super-large warhead” on Monday. The South has similar missiles, meant to target underground bunkers.",
+    "author": "Choe Sang-Hun",
+    "published": "Tue, 02 Jul 2024 06:38:23 +0000",
+    "tags": [
+      "North Korea",
+      "Missiles and Missile Defense Systems",
+      "South Korea",
+      "Kim Jong-un",
+      "Korean Central News Agency"
+    ]
+  },
+  {
+    "title": "Keir Starmer Is on the Cusp of Power in the U.K.",
+    "link": "https://www.nytimes.com/2024/07/02/world/europe/keir-starmer-uk-election.html",
+    "summary": "The Labour leader still struggles with the “performative side” of British politics, even as he has pulled his party to the center.",
+    "author": "Stephen Castle and Mark Landler",
+    "published": "Tue, 02 Jul 2024 04:01:16 +0000",
+    "tags": [
+      "Great Britain",
+      "Elections",
+      "Starmer, Keir",
+      "Labour Party (Great Britain)",
+      "Politics and Government",
+      "Conservative Party (Great Britain)",
+      "Content Type: Personal Profile",
+      "Corbyn, Jeremy (1949- )",
+      "Thatcher, Margaret H",
+      "Brown, Gordon",
+      "Blair, Tony",
+      "Johnson, Boris",
+      "Great Britain Withdrawal from EU (Brexit)"
+    ]
+  },
+  {
+    "title": "Tuesday Briefing",
+    "link": "https://www.nytimes.com/2024/07/02/briefing/trump-ruling-france-gaza.html",
+    "summary": "Here’s what you need to know.",
+    "author": "Natasha Frost",
+    "published": "Tue, 02 Jul 2024 04:01:06 +0000",
+    "tags": []
+  },
+  {
+    "title": "Air Europa Flight Hits Severe Turbulence, Fracturing Necks and Skulls",
+    "link": "https://www.nytimes.com/2024/07/01/world/americas/air-europa-flight-turbulence.html",
+    "summary": "Four passengers were in intensive care after the flight from Spain to Uruguay hit turbulence that injured dozens. The plane made an emergency landing in Brazil.",
+    "author": "Jack Nicas and Lis Moriconi",
+    "published": "Tue, 02 Jul 2024 02:54:55 +0000",
+    "tags": [
+      "Airlines and Airplanes",
+      "Bone Fractures",
+      "Air Europa",
+      "Brazil",
+      "Madrid (Spain)",
+      "Natal (Brazil)",
+      "Uruguay"
+    ]
+  },
+  {
+    "title": "Israel Frees Gaza Hospital Chief Held Without Charges for 7 Months",
+    "link": "https://www.nytimes.com/2024/07/01/world/middleeast/gaza-israel-shifa-hospital.html",
+    "summary": "Rights groups denounced the detention of Al-Shifa Hospital’s director and thousands of other Gazans without trial, while Israeli leaders faulted his release as a government failure.",
+    "author": "Hiba Yazbek, Johnatan Reiss and Thomas Fuller",
+    "published": "Tue, 02 Jul 2024 00:31:51 +0000",
+    "tags": [
+      "Israel-Gaza War (2023- )",
+      "Palestinians",
+      "Hospitals",
+      "Torture",
+      "Al Shifa Hospital (Gaza Strip)",
+      "Hamas",
+      "Shin Bet",
+      "Netanyahu, Benjamin",
+      "Gantz, Benny",
+      "Israel",
+      "Gaza Strip"
+    ]
+  },
+  {
+    "title": "Alert Level Raised at U.S. Bases in Europe Over Russian Threats",
+    "link": "https://www.nytimes.com/2024/07/01/us/politics/us-bases-alert-level-russia.html",
+    "summary": "Officials said there was no specific intelligence about possible Russian attacks on American bases, but Moscow has made vague threats over Ukraine’s use of long-range weapons on its territory.",
+    "author": "Julian E. Barnes and John Ismay",
+    "published": "Mon, 01 Jul 2024 22:09:46 +0000",
+    "tags": [
+      "International Relations",
+      "Defense and Military Forces",
+      "Russian Invasion of Ukraine (2022)",
+      "Missiles and Missile Defense Systems",
+      "United States Defense and Military Forces",
+      "United States Politics and Government",
+      "United States International Relations",
+      "Defense Department",
+      "Putin, Vladimir V",
+      "Europe",
+      "Russia",
+      "Ukraine"
+    ]
+  },
+  {
+    "title": "In Nigeria, Female Suicide Bombers Are a Terrorist Group’s Hidden Weapon",
+    "link": "https://www.nytimes.com/2024/07/01/world/africa/nigeria-female-suicide-bombers.html",
+    "summary": "Suicide bombers killed at least 32 people in three attacks in a Nigerian city once controlled by Boko Haram. Women, said experts, are more likely to go unnoticed when carrying out terrorist attacks.",
+    "author": "Eve Sampson",
+    "published": "Mon, 01 Jul 2024 21:38:56 +0000",
+    "tags": [
+      "Nigeria",
+      "Boko Haram",
+      "Terrorism",
+      "Women and Girls",
+      "Civilian Casualties",
+      "Politics and Government",
+      "Islamic State West African Province",
+      "Taliban",
+      "Shekau, Abubakar",
+      "Muslims and Islam",
+      "International Relations"
+    ]
+  },
+  {
+    "title": "Hurricane Beryl Flattens Islands in the Caribbean",
+    "link": "https://www.nytimes.com/2024/07/01/world/americas/hurricane-beryl-grenada-carriacou.html",
+    "summary": "Officials said the storm caused extreme damage to islands in Grenada and St. Vincent and the Grenadines. No storm has become a Category 5 this early in the season.",
+    "author": "Emiliano Rodríguez Mega",
+    "published": "Tue, 02 Jul 2024 08:09:59 +0000",
+    "tags": [
+      "Hurricanes and Tropical Storms",
+      "St Vincent",
+      "Barbados",
+      "Carriacou (Grenadines)",
+      "Grenada",
+      "St Lucia",
+      "Caribbean Area"
+    ]
+  },
+  {
+    "title": "Tuesday Briefing: Top Court Gives Trump Significant Immunity",
+    "link": "https://www.nytimes.com/2024/07/01/briefing/supreme-court-immunity-donald-trump.html",
+    "summary": "Plus, what’s next for France.",
+    "author": "Daniel E. Slotnik",
+    "published": "Mon, 01 Jul 2024 20:49:37 +0000",
+    "tags": []
+  },
+  {
+    "title": "Ismail Kadare’s Best Books: A Guide",
+    "link": "https://www.nytimes.com/2024/07/01/books/booksupdate/ismail-kadare-best-books-albania.html",
+    "summary": "Kadare received the inaugural International Booker Prize in 2005. In his books, the prolific Albanian author offered a window into the psychology of oppression. Here’s where to start.",
+    "author": "Amelia Nierenberg",
+    "published": "Mon, 01 Jul 2024 20:31:35 +0000",
+    "tags": [
+      "Writing and Writers",
+      "Man Booker International Prize",
+      "Kadare, Ismail",
+      "Albania",
+      "The General of the Dead Army (Book)",
+      "Broken April (Book)",
+      "The Palace of Dreams (Book)",
+      "The Three-Arched Bridge (Book)",
+      "The Successor (Book)",
+      "Twilight of the Eastern Gods (Book)",
+      "A Dictator Calls (Book)"
+    ]
+  },
+  {
+    "title": "Trump Organization Signs Contract for New Saudi Tower",
+    "link": "https://www.nytimes.com/2024/07/01/us/politics/trump-organization-saudi-arabia-tower.html",
+    "summary": "The residential high-rise tower in Jeddah is the latest of several developments that the former president’s company has planned for the Middle East.",
+    "author": "Eric Lipton",
+    "published": "Mon, 01 Jul 2024 17:45:15 +0000",
+    "tags": [
+      "Conflicts of Interest",
+      "Real Estate (Commercial)",
+      "International Relations",
+      "Dar Al Arkan Real Estate Development Co",
+      "LIV Golf",
+      "Public Investment Fund (Saudi Arabia)",
+      "Trump Organization",
+      "Trump, Donald J",
+      "Trump, Eric F (1984- )"
+    ]
+  },
+  {
+    "title": "Release of Gazan Hospital Director Draws Outcry in Israel",
+    "link": "https://www.nytimes.com/2024/07/01/world/middleeast/shifa-hospital-director-released.html",
+    "summary": "Mohammad Abu Salmiya, the director of Al-Shifa Hospital in Gaza City, was released on Monday after more than seven months in Israeli detention without charges.",
+    "author": "Hiba Yazbek",
+    "published": "Tue, 02 Jul 2024 01:33:40 +0000",
+    "tags": [
+      "Israel-Gaza War (2023- )",
+      "Al Shifa Hospital (Gaza Strip)",
+      "Shin Bet",
+      "Netanyahu, Benjamin",
+      "Gaza Strip",
+      "Israel"
+    ]
+  },
+  {
+    "title": "France Reacts to Big Far-Right Wins in First Round of Snap Election",
+    "link": "https://www.nytimes.com/2024/07/01/world/europe/france-snap-election-reaction.html",
+    "summary": "Many expressed shock that Marine Le Pen’s nationalist party was so close to power after the first round of a snap election.",
+    "author": "Catherine Porter",
+    "published": "Mon, 01 Jul 2024 16:05:18 +0000",
+    "tags": [
+      "Elections",
+      "Politics and Government",
+      "Legislatures and Parliaments",
+      "National Rally (France)",
+      "Le Pen, Marine",
+      "Macron, Emmanuel (1977- )",
+      "France",
+      "Henin-Beaumont (France)",
+      "Paris (France)",
+      "Bardella, Jordan (1995- )"
+    ]
+  },
+  {
+    "title": "The Rubik Cube Turns 50",
+    "link": "https://www.nytimes.com/2024/07/01/science/rubiks-cube-puzzles.html",
+    "summary": "Mathematicians and hobbyists have had a half-century of fun exploring the 43 billion billion permutations of Erno Rubik’s creation.",
+    "author": "Siobhan Roberts",
+    "published": "Mon, 01 Jul 2024 15:52:27 +0000",
+    "tags": [
+      "Mathematics",
+      "Rubik's Cube",
+      "Inventions and Patents",
+      "Toys",
+      "Spin Master",
+      "World Cube Assn",
+      "Rubik, Erno",
+      "Invader (1969- )",
+      "Hofstadter, Douglas R",
+      "Demaine, Erik",
+      "California",
+      "Hungary",
+      "your-feed-science"
+    ]
+  },
+  {
+    "title": "Chinese Rocket Crashes After Accidentally Launching During Test",
+    "link": "https://www.nytimes.com/2024/07/01/world/asia/china-rocket-launch-crash.html",
+    "summary": "The commercial company Space Pioneer said the accident occurred because of a structural failure in the connection between the rocket and its testing platform.",
+    "author": "Yan Zhuang and John Liu",
+    "published": "Mon, 01 Jul 2024 19:18:21 +0000",
+    "tags": [
+      "Space and Astronomy",
+      "Rocket Science and Propulsion",
+      "Explosions (Accidental)",
+      "China",
+      "Beijing Tianbing Technology Co (Space Pioneer)"
+    ]
+  },
+  {
+    "title": "Monday Briefing",
+    "link": "https://www.nytimes.com/2024/07/01/briefing/france-iran-election-biden.html",
+    "summary": "Elections in France and Iran.",
+    "author": "Natasha Frost",
+    "published": "Mon, 01 Jul 2024 04:52:55 +0000",
+    "tags": []
+  },
+  {
+    "title": "Monday Briefing: The French Far Right Appeared to Triumph",
+    "link": "https://www.nytimes.com/2024/06/30/briefing/french-election-far-right.html",
+    "summary": "Also, Iran’s election heads to a runoff and Japanese researchers help robots smile.",
+    "author": "Daniel E. Slotnik",
+    "published": "Mon, 01 Jul 2024 15:33:26 +0000",
+    "tags": []
+  },
+  {
+    "title": "Iranians Say Elections Bring Little Change, So Why Vote?",
+    "link": "https://www.nytimes.com/2024/06/30/world/middleeast/iran-election-president-voters.html",
+    "summary": "In Tehran, many Iranians said they didn’t see the point in voting in Friday’s first-round presidential election since all the candidates had been vetted by the government.",
+    "author": "Alissa J. Rubin",
+    "published": "Sun, 30 Jun 2024 21:00:31 +0000",
+    "tags": [
+      "Iran",
+      "Elections",
+      "Polls and Public Opinion",
+      "Women and Girls",
+      "Guardian Council (Iran)",
+      "Jalili, Saeed",
+      "Pezeshkian, Masoud",
+      "Khamenei, Ali"
+    ]
+  },
+  {
+    "title": "Can Japan’s First Same-Sex Dating Reality Show Change Hearts and Minds?",
+    "link": "https://www.nytimes.com/2024/06/30/world/asia/the-boyfriend-netflix.html",
+    "summary": "Producers of “The Boyfriend” on Netflix hope it will encourage broader acceptance of the L.G.B.T.Q. community in Japan, which still has not legalized same-sex unions.",
+    "author": "Motoko Rich and Kiuko Notoya",
+    "published": "Sun, 30 Jun 2024 15:01:09 +0000",
+    "tags": [
+      "Reality Television",
+      "Homosexuality and Bisexuality",
+      "Dating and Relationships",
+      "The Boyfriend (TV Program)",
+      "Netflix Inc",
+      "Japan"
+    ]
+  },
+  {
+    "title": "Taliban Talks With U.N. Go On Despite Alarm Over Exclusion of Women",
+    "link": "https://www.nytimes.com/2024/06/30/world/middleeast/afghanistan-un-taliban-talks-women.html",
+    "summary": "The meeting is the first between the Taliban and a United Nations-led conference of  global envoys who are seeking to engage the Afghan government on critical issues.",
+    "author": "Christina Goldbaum",
+    "published": "Sun, 30 Jun 2024 18:09:21 +0000",
+    "tags": [
+      "International Relations",
+      "Politics and Government",
+      "Women's Rights",
+      "Human Rights and Human Rights Violations",
+      "Taliban",
+      "United Nations",
+      "Afghanistan",
+      "Doha (Qatar)"
+    ]
+  },
+  {
+    "title": "Robots Get a Fleshy Face (and a Smile) in New Research",
+    "link": "https://www.nytimes.com/2024/06/30/science/japan-robots-human-face.html",
+    "summary": "Researchers at the University of Tokyo published findings on a method of attaching artificial skin to robot faces to protect machinery and mimic human expressiveness.",
+    "author": "Emily Schmall",
+    "published": "Sun, 30 Jun 2024 15:58:23 +0000",
+    "tags": [
+      "Robots and Robotics",
+      "Research",
+      "Innovation",
+      "Engineering and Engineers",
+      "Japan",
+      "Skin",
+      "Face"
+    ]
+  },
+  {
+    "title": "At Least 18 People Killed in Multiple Suicide Bombings in Nigeria",
+    "link": "https://www.nytimes.com/2024/06/30/world/africa/suicide-bombings-nigeria.html",
+    "summary": "Three female attackers detonated devices at a wedding and at a funeral in a city once ruled by Boko Haram, emergency service officials said. So far, no group has claimed responsibility.",
+    "author": "Ismail Alfa and Elian Peltier",
+    "published": "Sun, 30 Jun 2024 21:00:33 +0000",
+    "tags": [
+      "Civilian Casualties",
+      "Terrorism",
+      "Kidnapping and Hostages",
+      "Boko Haram",
+      "Nigeria"
+    ]
+  },
+  {
+    "title": "Brazil’s Pabllo Vittar is the World’s Next Big Drag Queen",
+    "link": "https://www.nytimes.com/2024/06/30/world/americas/pabllo-vittar-drag-queen-brazil.html",
+    "summary": "Pabllo Vittar has become an A-list pop star and L.G.B.T.Q. activist in Brazil. Can she conquer the world?",
+    "author": "Jack Nicas and Victor Moriyama",
+    "published": "Sun, 30 Jun 2024 23:31:45 +0000",
+    "tags": [
+      "Drag (Performance)",
+      "Transgender",
+      "Homosexuality and Bisexuality",
+      "Charles, RuPaul",
+      "Brazil",
+      "Content Type: Personal Profile",
+      "Pop and Rock Music",
+      "Pabllo Vittar (1993- )"
+    ]
+  },
+  {
+    "title": "Iran Elections: What to Know",
+    "link": "https://www.nytimes.com/2024/06/30/world/middleeast/iran-election-takeaways.html",
+    "summary": "The results from Friday’s election, which drew record-low turnout for a presidential race, will force a runoff on July 5 between a reformist and an ultraconservative.",
+    "author": "Vivian Yee",
+    "published": "Sun, 30 Jun 2024 08:08:52 +0000",
+    "tags": [
+      "Iran",
+      "Elections",
+      "International Relations",
+      "Ghalibaf, Mohammad Baqer",
+      "Jalili, Saeed",
+      "Pezeshkian, Masoud",
+      "Israel-Gaza War (2023- )",
+      "Muslim Veiling",
+      "Hamas",
+      "Hezbollah",
+      "Embargoes and Sanctions"
+    ]
+  },
+  {
+    "title": "How Science Went to the Dogs (and Cats)",
+    "link": "https://www.nytimes.com/2024/06/30/science/pets-research-dogs-cats.html",
+    "summary": "Pets were once dismissed as trivial scientific subjects. Today, companion animal science is hot.",
+    "author": "Emily Anthes",
+    "published": "Sun, 30 Jun 2024 07:00:23 +0000",
+    "tags": [
+      "Pets",
+      "Dogs",
+      "Cats",
+      "Animal Behavior",
+      "Animal Cognition",
+      "Genetics and Heredity",
+      "Research",
+      "Veterinary Medicine",
+      "Laboratories and Scientific Equipment",
+      "your-feed-science",
+      "your-feed-animals"
+    ]
+  },
+  {
+    "title": "In the Basque Country, Muted Cheers for Spain’s Soccer Team",
+    "link": "https://www.nytimes.com/2024/06/30/world/europe/euro-2024-spain-basque.html",
+    "summary": "The region has long seen itself as distinct from its country and disinterested in the national team. Can a Euro 2024 squad studded with Basque stars turn heads?",
+    "author": "Rory Smith",
+    "published": "Mon, 01 Jul 2024 19:10:28 +0000",
+    "tags": [
+      "Soccer",
+      "Basque Region (Spain)",
+      "UEFA European Football Championship",
+      "Basques",
+      "Bilbao (Spain)"
+    ]
+  },
+  {
+    "title": "France’s High-Stakes Elections Attract Strong Voter Turnout: What to Watch",
+    "link": "https://www.nytimes.com/2024/06/30/world/europe/france-election-what-to-watch.html",
+    "summary": "Participation was unusually strong as voters headed to the polls for a parliamentary election that could put the country on a new course. Here’s what to watch for.",
+    "author": "Aurelien Breeden",
+    "published": "Sun, 30 Jun 2024 17:14:34 +0000",
+    "tags": [
+      "France",
+      "Elections",
+      "Macron, Emmanuel (1977- )",
+      "Legislatures and Parliaments",
+      "Polls and Public Opinion",
+      "National Rally (France)",
+      "France Unbowed (Political Party)"
+    ]
+  },
+  {
+    "title": "As Thousands Protest in Israel, a Rescued Hostage Speaks Out",
+    "link": "https://www.nytimes.com/2024/06/30/world/middleeast/israel-protests-hostages-noa-argamani.html",
+    "summary": "In a new video, Noa Argamani, a hostage rescued on June 8, called for the release of the remaining captives.",
+    "author": "Anjana Sankar",
+    "published": "Sun, 30 Jun 2024 14:33:43 +0000",
+    "tags": [
+      "Demonstrations, Protests and Riots",
+      "Kidnapping and Hostages",
+      "Palestinians",
+      "Israel-Gaza War (2023- )",
+      "Argamani, Noa",
+      "Netanyahu, Benjamin",
+      "Gaza Strip",
+      "Israel",
+      "Tel Aviv (Israel)"
     ]
   },
   {
@@ -42,245 +704,20 @@
     "tags": [
       "Presidential Election of 2024",
       "United States International Relations",
-      "European Union",
-      "Democratic Party",
-      "Bardella, Jordan (1995- )",
-      "Macron, Emmanuel (1977- )",
-      "Biden, Joseph R Jr",
-      "Trump, Donald J",
-      "France",
-      "Elections"
-    ]
-  },
-  {
-    "title": "Reformist Masoud Pezeshkian Reaches Runoff in Iran’s Presidential Election",
-    "link": "https://www.nytimes.com/2024/06/29/world/middleeast/iran-election-masoud-pezeshkian-saeed-jalili.html",
-    "summary": "Candidates in the campaign to fill the seat of President Ebrahim Raisi, who died in a helicopter crash, showed notable candor about the country’s mounting problems.",
-    "author": "Farnaz Fassihi, Alissa J. Rubin and Russell Goldman",
-    "published": "Sat, 29 Jun 2024 18:25:11 +0000",
-    "tags": [
-      "International Relations",
-      "United States International Relations",
-      "Politics and Government",
-      "Iran",
-      "Masoud Pezeshkian",
-      "Mohammad Baqer Ghalibaf",
-      "Elections"
-    ]
-  },
-  {
-    "title": "Why U.K.’s Young Voters Feel Forgotten by Politicians",
-    "link": "https://www.nytimes.com/2024/06/29/world/europe/britain-young-voters.html",
-    "summary": "Many young people in the northern English cities of Liverpool and Manchester say they feel disillusioned by politics.",
-    "author": "Megan Specia",
-    "published": "Sat, 29 Jun 2024 04:01:19 +0000",
-    "tags": [
-      "Great Britain",
-      "Voting and Voters",
-      "Youth",
-      "Politics and Government",
-      "Great Britain Withdrawal from EU (Brexit)",
-      "Labour Party (Great Britain)",
-      "Conservative Party (Great Britain)",
-      "National Health Service",
-      "Polls and Public Opinion",
+      "Nationalism (Theory and Philosophy)",
       "Elections",
-      "Labor and Jobs",
-      "Legislatures and Parliaments"
-    ]
-  },
-  {
-    "title": "Defendants Acquitted in Panama Papers Money-Laundering Trial",
-    "link": "https://www.nytimes.com/2024/06/29/world/americas/panama-papers-defendants-acquitted.html",
-    "summary": "The case focused on the law firm at the heart of the 2016 scandal, in which leaked documents revealed a vast network of offshore tax havens.",
-    "author": "Leila Miller",
-    "published": "Sat, 29 Jun 2024 07:37:57 +0000",
-    "tags": [
-      "Panama Papers",
-      "Decisions and Verdicts",
-      "Money Laundering",
-      "Panama",
-      "Fonseca Mora, Ramon (1952- )",
-      "Mossack, Jurgen (1948- )",
-      "Mossack Fonseca & Co",
-      "Tax Shelters",
-      "Tax Evasion"
-    ]
-  },
-  {
-    "title": "How Julian Assange Lit the Fuse on the Digital World",
-    "link": "https://www.nytimes.com/2024/06/29/world/australia/julian-assange-hacking-leaks.html",
-    "summary": "In his brazen quest for total transparency, the WikiLeaks founder paved the way for a world in which no secret is safe and no institution trusted.",
-    "author": "Mattathias Schwartz",
-    "published": "Sat, 29 Jun 2024 16:30:49 +0000",
-    "tags": [
-      "Assange, Julian P",
-      "Cyberattacks and Hackers",
-      "Classified Information and State Secrets",
-      "News and News Media",
-      "Espionage and Intelligence Services",
-      "Computer Security",
-      "Surveillance of Citizens by Government",
-      "Cyberwarfare and Defense",
-      "Freedom of the Press",
-      "Freedom of Speech and Expression",
-      "Video Recordings, Downloads and Streaming"
-    ]
-  },
-  {
-    "title": "Putin Vows to Make New Nuclear Missiles and Weigh Putting Them Near NATO Nations",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/russia-nuclear-missiles-nato.html",
-    "summary": "The announcement appeared to be the Russian leader’s latest attempt to raise the stakes in his conflict with the West, coming less than two weeks after his visit to North Korea.",
-    "author": "David E. Sanger and Anton Troianovski",
-    "published": "Sat, 29 Jun 2024 04:30:20 +0000",
-    "tags": [
-      "Russia",
-      "Putin, Vladimir V",
-      "Nuclear Weapons",
-      "United States International Relations",
-      "Politics and Government",
-      "Strategic Arms Reduction Treaty",
-      "Defense and Military Forces",
-      "Arms Control and Limitation and Disarmament",
-      "International Relations",
-      "North Atlantic Treaty Organization",
-      "Elections",
-      "France",
-      "Great Britain",
-      "Europe",
-      "Far East, South and Southeast Asia and Pacific Areas",
-      "China",
-      "Russian Invasion of Ukraine (2022)"
-    ]
-  },
-  {
-    "title": "Racist and Homophobic Comments Unsettle U.K. Election Campaign",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/racist-homophobic-reform-uk.html",
-    "summary": "Prime Minister Rishi Sunak denounced a slur used against him by a man campaigning for Reform U.K., the anti-immigration party led by Nigel Farage.",
-    "author": "Stephen Castle",
-    "published": "Fri, 28 Jun 2024 20:49:50 +0000",
-    "tags": [
-      "Great Britain",
-      "Sunak, Rishi (1980- )",
-      "Race and Ethnicity",
-      "Discrimination",
-      "Muslims and Islam",
-      "Politics and Government",
-      "Elections",
-      "Homosexuality and Bisexuality",
-      "Immigration and Emigration",
-      "Reform UK (British Political Party)",
-      "Conservative Party (Great Britain)",
-      "Farage, Nigel (1964- )",
-      "George Jones",
-      "Andrew Parker",
-      "Channel 4 News (UK)"
-    ]
-  },
-  {
-    "title": "Debates in U.K. and U.S. Differ Sharply in Tone and Substance",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/uk-us-debate-contrast.html",
-    "summary": "The debates between contenders to be U.K. prime minister showed that Britain’s political culture, and the leaders who have emerged from it, are far removed from those across the ocean.",
-    "author": "Mark Landler",
-    "published": "Fri, 28 Jun 2024 19:50:16 +0000",
-    "tags": [
-      "Politics and Government",
-      "Presidential Election of 2024",
+      "Russian Invasion of Ukraine (2022)",
       "Debates (Political)",
-      "Conservative Party (Great Britain)",
-      "Labour Party (Great Britain)",
-      "Sunak, Rishi (1980- )",
-      "Starmer, Keir",
+      "Macron, Emmanuel (1977- )",
       "Biden, Joseph R Jr",
       "Trump, Donald J",
-      "Great Britain",
-      "Elections"
-    ]
-  },
-  {
-    "title": "France’s Bold Election Gamble: Here Is What’s at Stake",
-    "link": "https://www.nytimes.com/2024/06/10/world/europe/france-election-macron-explained.html",
-    "summary": "President Emmanuel Macron’s surprise call for new elections in France’s lower house of Parliament is seen as a risky gamble.",
-    "author": "Aurelien Breeden",
-    "published": "Sat, 29 Jun 2024 14:19:06 +0000",
-    "tags": [
-      "France",
-      "Macron, Emmanuel (1977- )",
-      "National Rally (France)",
-      "Politics and Government",
-      "Elections",
-      "Legislatures and Parliaments",
-      "Europe",
-      "Paris (France)",
-      "Le Pen, Marine",
       "European Union",
-      "Bardella, Jordan (1995- )"
-    ]
-  },
-  {
-    "title": "Why Britain’s Murky Election Betting Scandal Is Causing Outrage",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/uk-election-betting-scandal.html",
-    "summary": "The embattled Conservative Party is embroiled in investigations over whether some of its own staff members used insider knowledge to bet on the timing of the general election.",
-    "author": "Rory Smith",
-    "published": "Fri, 28 Jun 2024 23:35:12 +0000",
-    "tags": [
-      "Gambling",
-      "Polls and Public Opinion",
-      "Politics and Government",
-      "Soccer",
-      "Ethics and Official Misconduct",
-      "Elections",
-      "Conservative Party (Great Britain)",
-      "Labour Party (Great Britain)",
-      "Sunak, Rishi (1980- )",
-      "Great Britain",
-      "England"
-    ]
-  },
-  {
-    "title": "U.S. Allies in Asia and Europe Watch the Debate With a Question: What Now?",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/biden-trump-debate-europe.html",
-    "summary": "Across Asia and Europe, the event stoked concerns about American stability, both domestically and on crucial foreign policy issues like Washington’s commitment to alliances.",
-    "author": "Steven Erlanger and Motoko Rich",
-    "published": "Fri, 28 Jun 2024 17:14:46 +0000",
-    "tags": [
-      "North Atlantic Treaty Organization",
-      "Europe",
-      "United States International Relations",
-      "Trump, Donald J",
-      "Biden, Joseph R Jr",
-      "Presidential Election of 2024",
-      "Far East, South and Southeast Asia and Pacific Areas",
-      "Ukraine",
-      "China",
-      "Japan",
-      "North Korea",
-      "Russia",
-      "South Korea",
-      "India"
-    ]
-  },
-  {
-    "title": "Brittany Was Once Barren Ground for France’s Far Right. No More.",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/france-brittany-far-right.html",
-    "summary": "The region along the northwest coast has few immigrants and little crime or unemployment, but the far-right National Rally has made inroads saying that all three are coming.",
-    "author": "Catherine Porter and Dmitry Kostyukov",
-    "published": "Sat, 29 Jun 2024 04:20:28 +0000",
-    "tags": [
-      "Brittany (France)",
-      "Right-Wing Extremism and Alt-Right",
-      "Immigration and Emigration",
-      "Illegal Immigration",
-      "Foreign Workers",
-      "Labor and Jobs",
-      "Elections",
-      "Discrimination",
       "National Rally (France)",
+      "North Atlantic Treaty Organization",
       "Bardella, Jordan (1995- )",
-      "Macron, Emmanuel (1977- )",
       "France",
-      "Le Pen, Jean-Marie",
-      "Le Pen, Marine"
+      "Russia",
+      "Ukraine"
     ]
   },
   {
@@ -313,16 +750,75 @@
     ]
   },
   {
+    "title": "Motorcycles and Mayhem in Ukraine’s East",
+    "link": "https://www.nytimes.com/2024/06/29/world/europe/ukraine-russia-war-donbas.html",
+    "summary": "In the latest tactic for storming trenches, Russians use motorcycles and dune buggies to speed across open space, often into a hail of gunfire.",
+    "author": "Andrew E. Kramer, Maria Varenikova and Daniel Berehulak",
+    "published": "Sat, 29 Jun 2024 16:51:04 +0000",
+    "tags": [
+      "Russian Invasion of Ukraine (2022)",
+      "Defense and Military Forces",
+      "Motorcycles, Motor Bikes and Motorscooters",
+      "Chasiv Yar (Ukraine)",
+      "Donbas (Ukraine)",
+      "Pokrovsk (Ukraine)",
+      "Russia",
+      "Ukraine"
+    ]
+  },
+  {
+    "title": "Reformist Masoud Pezeshkian Reaches Runoff in Iran’s Presidential Election",
+    "link": "https://www.nytimes.com/2024/06/29/world/middleeast/iran-election-masoud-pezeshkian-saeed-jalili.html",
+    "summary": "Candidates in the campaign to fill the seat of President Ebrahim Raisi, who died in a helicopter crash, showed notable candor about the country’s mounting problems.",
+    "author": "Farnaz Fassihi, Alissa J. Rubin and Russell Goldman",
+    "published": "Sat, 29 Jun 2024 18:25:11 +0000",
+    "tags": [
+      "Iran",
+      "Elections",
+      "Jalili, Saeed",
+      "Pezeshkian, Masoud",
+      "Ghalibaf, Mohammad Baqer",
+      "Politics and Government",
+      "Polls and Public Opinion",
+      "Voting and Voters",
+      "International Relations",
+      "United States International Relations"
+    ]
+  },
+  {
     "title": "A Wish From All Sides to Move On Gives Freedom to Julian Assange",
     "link": "https://www.nytimes.com/2024/06/29/us/politics/julian-assange-release-uk-us.html",
     "summary": "The WikiLeaks founder spent years in captivity in London before talks accelerated this spring, allowing him to go home to Australia as a felon, but a free man.",
     "author": "Glenn Thrush and Megan Specia",
     "published": "Sat, 29 Jun 2024 13:03:45 +0000",
     "tags": [
+      "Assange, Julian P",
       "Classified Information and State Secrets",
       "WikiLeaks",
+      "Saipan (Northern Mariana Islands)",
+      "Australia",
+      "Justice Department",
+      "Extradition"
+    ]
+  },
+  {
+    "title": "How Julian Assange Lit the Fuse on the Digital World",
+    "link": "https://www.nytimes.com/2024/06/29/world/australia/julian-assange-hacking-leaks.html",
+    "summary": "In his brazen quest for total transparency, the WikiLeaks founder paved the way for a world in which no secret is safe and no institution trusted.",
+    "author": "Mattathias Schwartz",
+    "published": "Sat, 29 Jun 2024 16:30:49 +0000",
+    "tags": [
+      "Cyberwarfare and Defense",
+      "Cyberattacks and Hackers",
+      "Classified Information and State Secrets",
+      "News and News Media",
+      "Freedom of the Press",
+      "Freedom of Speech and Expression",
+      "Espionage and Intelligence Services",
       "Assange, Julian P",
-      "Saipan (Northern Mariana Islands)"
+      "WikiLeaks",
+      "United States Politics and Government",
+      "United States Defense and Military Forces"
     ]
   },
   {
@@ -336,14 +832,70 @@
       "Greenhouse Gas Emissions",
       "Regulation and Deregulation of Industry",
       "Chevron v Natural Resources Defense Council (Supreme Court Decision)",
-      "Water Pollution",
-      "Law and Legislation",
       "Decisions and Verdicts",
-      "Air Pollution",
       "Environment",
-      "Courts and the Judiciary",
+      "Water Pollution",
+      "Air Pollution",
+      "Conservatism (US Politics)",
       "Environmental Protection Agency",
       "Supreme Court (US)"
+    ]
+  },
+  {
+    "title": "Defendants Acquitted in Panama Papers Money-Laundering Trial",
+    "link": "https://www.nytimes.com/2024/06/29/world/americas/panama-papers-defendants-acquitted.html",
+    "summary": "The case focused on the law firm at the heart of the 2016 scandal, in which leaked documents revealed a vast network of offshore tax havens.",
+    "author": "Leila Miller",
+    "published": "Sat, 29 Jun 2024 07:37:57 +0000",
+    "tags": [
+      "Panama Papers",
+      "Decisions and Verdicts",
+      "Money Laundering",
+      "Panama",
+      "Fonseca Mora, Ramon (1952- )",
+      "Mossack, Jurgen (1948- )",
+      "Mossack Fonseca & Co",
+      "Tax Shelters",
+      "Tax Evasion"
+    ]
+  },
+  {
+    "title": "Years Later, Philippines Reckons With Duterte’s Brutal Drug War",
+    "link": "https://www.nytimes.com/2024/06/29/world/asia/philippines-drug-war-duterte-justice.html",
+    "summary": "A president’s vow to fight drugs unleashed violence and fostered a culture of impunity. But the crimes are finally getting a look, including from the International Criminal Court.",
+    "author": "Sui-Lee Wee and Camille Elemia",
+    "published": "Sat, 29 Jun 2024 14:25:25 +0000",
+    "tags": [
+      "Police Brutality, Misconduct and Shootings",
+      "Human Rights and Human Rights Violations",
+      "Drug Abuse and Traffic",
+      "Politics and Government",
+      "Immunity from Prosecution",
+      "Duterte, Rodrigo",
+      "Marcos, Ferdinand Jr",
+      "International Criminal Court",
+      "Philippines"
+    ]
+  },
+  {
+    "title": "Why U.K.’s Young Voters Feel Forgotten by Politicians",
+    "link": "https://www.nytimes.com/2024/06/29/world/europe/britain-young-voters.html",
+    "summary": "Many young people in the northern English cities of Liverpool and Manchester say they feel disillusioned by politics.",
+    "author": "Megan Specia",
+    "published": "Sat, 29 Jun 2024 04:01:19 +0000",
+    "tags": [
+      "Elections",
+      "Voting and Voters",
+      "Youth",
+      "Polls and Public Opinion",
+      "Economic Conditions and Trends",
+      "Wages and Salaries",
+      "Politics and Government",
+      "Labour Party (Great Britain)",
+      "Conservative Party (Great Britain)",
+      "Great Britain",
+      "Manchester (England)",
+      "Liverpool (England)"
     ]
   },
   {
@@ -364,11 +916,37 @@
     ]
   },
   {
-    "title": "Beryl, the Season’s First Hurricane, Is Expected to Intensify",
+    "title": "Putin Vows to Make New Nuclear Missiles and Weigh Putting Them Near NATO Nations",
+    "link": "https://www.nytimes.com/2024/06/28/world/europe/russia-nuclear-missiles-nato.html",
+    "summary": "The announcement appeared to be the Russian leader’s latest attempt to raise the stakes in his conflict with the West, coming less than two weeks after his visit to North Korea.",
+    "author": "David E. Sanger and Anton Troianovski",
+    "published": "Sat, 29 Jun 2024 04:30:20 +0000",
+    "tags": [
+      "Russia",
+      "Putin, Vladimir V",
+      "Nuclear Weapons",
+      "United States International Relations",
+      "Politics and Government",
+      "Strategic Arms Reduction Treaty",
+      "Defense and Military Forces",
+      "Arms Control and Limitation and Disarmament",
+      "International Relations",
+      "North Atlantic Treaty Organization",
+      "Elections",
+      "France",
+      "Great Britain",
+      "Europe",
+      "Far East, South and Southeast Asia and Pacific Areas",
+      "China",
+      "Russian Invasion of Ukraine (2022)"
+    ]
+  },
+  {
+    "title": "Hurricane Beryl Becomes a Category 5 Storm",
     "link": "https://www.nytimes.com/article/tropical-storm-beryl-hurricane.html",
-    "summary": "The hurricane is expected to intensify quickly and bring significant storm surge to the Windward Islands as a major hurricane, forecasters said on Saturday.",
-    "author": "Judson Jones and Aimee Ortiz",
-    "published": "Sun, 30 Jun 2024 00:12:34 +0000",
+    "summary": "The tropical cyclone made landfall on Carriacou Island on Monday morning. Officials said the island was “flattened.”",
+    "author": "Judson Jones",
+    "published": "Tue, 02 Jul 2024 07:29:13 +0000",
     "tags": [
       "Hurricanes and Tropical Storms",
       "Beryl",
@@ -420,649 +998,23 @@
     ]
   },
   {
-    "title": "U.S. Presses to Avert Wider War Between Israel and Hezbollah in Lebanon",
-    "link": "https://www.nytimes.com/2024/06/28/us/politics/israel-hezbollah-lebanon-iran.html",
-    "summary": "A recent flurry of diplomacy aims to head off a conflict that could pit the United States directly against Iran.",
-    "author": "Michael Crowley, Julian E. Barnes and Aaron Boxerman",
-    "published": "Sat, 29 Jun 2024 04:15:10 +0000",
-    "tags": [
-      "Israel",
-      "Hezbollah",
-      "Lebanon",
-      "Defense and Military Forces",
-      "Israel-Gaza War (2023- )",
-      "Hamas",
-      "Iran",
-      "Gaza Strip",
-      "United States International Relations"
-    ]
-  },
-  {
-    "title": "Dutch Olympic Organizers Defend Participation of Athlete Convicted of Rape",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/steven-van-de-velde-dutch-volleyball-olympics.html",
-    "summary": "Steven van de Velde, a beach volleyball player, spent time in prison for the 2014 rape of a 12-year-old girl. His inclusion on the Olympic team has caused a stir in the international news media.",
-    "author": "Claire Moses",
-    "published": "Sun, 30 Jun 2024 01:53:12 +0000",
-    "tags": [
-      "Olympic Games (2024)",
-      "Sex Crimes",
-      "Child Abuse and Neglect",
-      "Beach Volleyball",
-      "Netherlands",
-      "van de Velde, Steven (1994- )"
-    ]
-  },
-  {
-    "title": "Mikhail Baryshnikov on Leaving Everything Behind",
-    "link": "https://www.nytimes.com/2024/06/28/arts/dance/mikhail-baryshnikov-soviet-union-defection.html",
-    "summary": "Fifty years ago, Baryshnikov defected from the Soviet Union. He discusses that day, the war in Ukraine and the challenges facing Russian artists today.",
-    "author": "Javier C. Hernández",
-    "published": "Sat, 29 Jun 2024 11:16:46 +0000",
-    "tags": [
-      "Dancing",
-      "Baryshnikov, Mikhail",
-      "Content Type: Personal Profile",
-      "Defectors (Political)",
-      "American Ballet Theater",
-      "Kirov Ballet",
-      "Baryshnikov Arts Center",
-      "Latvia",
-      "USSR (Former Soviet Union)",
-      "Russia",
-      "Ukraine",
-      "Russian Invasion of Ukraine (2022)"
-    ]
-  },
-  {
-    "title": "At Euro 2024, a Very England Fight Misses the Point",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/gary-lineker-england-euro-2024.html",
-    "summary": "A back and forth over the pundit’s one-word analysis of his country’s performances rests on a misconception about the media’s role.",
-    "author": "Rory Smith",
-    "published": "Fri, 28 Jun 2024 14:30:03 +0000",
-    "tags": [
-      "Soccer",
-      "UEFA European Football Championship",
-      "Lineker, Gary (1960- )",
-      "Kane, Harry (1993- )",
-      "Bellingham, Jude (2003- )",
-      "Rangnick, Ralf (1958- )"
-    ]
-  },
-  {
-    "title": "What I’m Reading: Tunneling to the Past",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/interpreter-books-reading-wars.html",
-    "summary": "Looking for answers, or an escape, in a fraught world.",
-    "author": "Amanda Taub",
-    "published": "Fri, 28 Jun 2024 14:25:14 +0000",
-    "tags": [
-      "Books and Literature",
-      "Holocaust and the Nazi Era",
-      "World War II (1939-45)",
-      "Edinburgh Festival Fringe",
-      "Anti-Semitism",
-      "Isherwood, Christopher",
-      "Kaling, Mindy",
-      "Redmayne, Eddie",
-      "Withers, Brenda",
-      "Afghanistan",
-      "Berlin (Germany)",
-      "Iraq"
-    ]
-  },
-  {
-    "title": "Princess Anne Returns Home From the Hospital After Suffering Concussion",
-    "link": "https://www.nytimes.com/2024/06/28/world/europe/princess-anne-home-hospital-accident.html",
-    "summary": "Anne, the younger sister of King Charles III, suffered a concussion and other injuries in an accident at her country residence, palace officials said.",
+    "title": "Debates in U.K. and U.S. Differ Sharply in Tone and Substance",
+    "link": "https://www.nytimes.com/2024/06/28/world/europe/uk-us-debate-contrast.html",
+    "summary": "The debates between contenders to be U.K. prime minister showed that Britain’s political culture, and the leaders who have emerged from it, are far removed from those across the ocean.",
     "author": "Mark Landler",
-    "published": "Fri, 28 Jun 2024 13:10:46 +0000",
-    "tags": [
-      "Royal Families",
-      "Concussions",
-      "Charles III, King of the United Kingdom",
-      "Anne, Princess Royal (1950- )",
-      "Bristol (England)",
-      "England",
-      "Great Britain"
-    ]
-  },
-  {
-    "title": "Israeli Minister Reportedly Agrees to Release Funds to the Palestinian Authority",
-    "link": "https://www.nytimes.com/2024/06/29/world/middleeast/israel-funds-palestinian-authority-smotrich.html",
-    "summary": "Under a tentative deal, Israel’s far-right finance minister, Bezalel Smotrich, would help the Palestinian Authority stave off financial collapse if five illegal West Bank outposts are authorized.",
-    "author": "Aaron Boxerman and Adam Rasgon",
-    "published": "Sat, 29 Jun 2024 14:07:02 +0000",
-    "tags": [
-      "Israel-Gaza War (2023- )",
-      "Palestinians",
-      "Israeli Settlements",
-      "Banking and Financial Institutions"
-    ]
-  },
-  {
-    "title": "For An Aquatic Veterinarian, It’s Never ‘Just A Fish’",
-    "link": "https://www.nytimes.com/2024/06/28/science/fish-veterinarian-health.html",
-    "summary": "Stress, ovarian cancer, buoyancy disorders: Every pet has its troubles, and needs a good doctor who makes house calls.",
-    "author": "Emily Anthes and Nic Coury",
-    "published": "Fri, 28 Jun 2024 09:00:50 +0000",
-    "tags": [
-      "your-feed-science",
-      "your-feed-animals",
-      "Veterinary Medicine",
-      "Fish and Other Marine Life",
-      "Pets",
-      "Aquariums",
-      "Animals",
-      "San Francisco Bay Area (Calif)"
-    ]
-  },
-  {
-    "title": "What the Impressionist Painter Camille Pissarro Saw in London",
-    "link": "https://www.nytimes.com/2024/06/28/travel/pissarro-london-impressionism-monet.html",
-    "summary": "A writer used Camille Pissarro’s paintings of suburban London and a ‘lost’ railway as a lens for exploring the city’s history — and settling an arcane mystery.",
-    "author": "Mike Ives",
-    "published": "Fri, 28 Jun 2024 15:14:45 +0000",
-    "tags": [
-      "Art",
-      "Railroads",
-      "Suburbs",
-      "Victorian Era",
-      "Stations and Terminals (Passenger)",
-      "Courtauld Gallery",
-      "Horniman Museum",
-      "Musee d'Orsay",
-      "Monet, Claude",
-      "Pissarro, Camille",
-      "Ruskin, John",
-      "Turner, Joseph Mallord William",
-      "England",
-      "France",
-      "Great Britain"
-    ]
-  },
-  {
-    "title": "7.2-Magnitude Earthquake Strikes Off Peru, Injures 3",
-    "link": "https://www.nytimes.com/2024/06/28/world/americas/peru-earthquake.html",
-    "summary": "A tsunami alert was lifted about an hour after the quake struck off the coast of the southern region of Arequipa.",
-    "author": "John Yoon",
-    "published": "Fri, 28 Jun 2024 13:57:14 +0000",
-    "tags": [
-      "Earthquakes",
-      "Coastal Areas",
-      "United States Geological Survey",
-      "Arequipa (Peru)",
-      "Peru"
-    ]
-  },
-  {
-    "title": "No Appendix, No Problem. Australia’s Remote Doctors Tell All.",
-    "link": "https://www.nytimes.com/2024/06/28/world/australia/remote-doctors.html",
-    "summary": "Being the only physician around for hundreds of miles isn’t always bad. “It’s quite liberating to be like, ‘I’m the best person here for the job’,” said one doctor.",
-    "author": "Julia Bergin",
-    "published": "Fri, 28 Jun 2024 06:00:02 +0000",
-    "tags": [
-      "Doctors",
-      "Medicine and Health",
-      "Australia",
-      "Surgery and Surgeons"
-    ]
-  },
-  {
-    "title": "Friday Briefing",
-    "link": "https://www.nytimes.com/2024/06/28/briefing/trump-biden-debate-france-election.html",
-    "summary": "Biden stumbled in the first 2024 debate.",
-    "author": "Daniel E. Slotnik",
-    "published": "Fri, 28 Jun 2024 04:39:18 +0000",
-    "tags": []
-  },
-  {
-    "title": "Iran Holds Vote to Pick a President",
-    "link": "https://www.nytimes.com/2024/06/28/world/middleeast/iran-president-election.html",
-    "summary": "The latest polling suggested Dr. Masoud Pezeshkian, a reformist candidate, was in the lead, but not enough to avoid a runoff.",
-    "author": "Farnaz Fassihi and Alissa J. Rubin",
-    "published": "Sat, 29 Jun 2024 08:03:46 +0000",
-    "tags": [
-      "Iran",
-      "Elections",
-      "Politics and Government",
-      "Economic Conditions and Trends",
-      "International Relations",
-      "Islamic Revolutionary Guards Corps",
-      "Ghalibaf, Mohammad Baqer",
-      "Pezeshkian, Masoud",
-      "Pourmohammadi, Mostafa",
-      "Jalili, Saeed",
-      "Khamenei, Ali"
-    ]
-  },
-  {
-    "title": "Iran’s Presidential Candidates: Who Are They?",
-    "link": "https://www.nytimes.com/2024/06/28/world/middleeast/irans-presidential-candidates.html",
-    "summary": "Four of the six candidates selected by officials to run in Iran’s special presidential election are still in the running after the president died in a helicopter crash last month.",
-    "author": "Eve Sampson",
-    "published": "Sat, 29 Jun 2024 04:19:14 +0000",
-    "tags": [
-      "Iran",
-      "Elections",
-      "Politics and Government",
-      "Ghalibaf, Mohammad Baqer",
-      "Jalili, Saeed",
-      "Pezeshkian, Masoud",
-      "Pourmohammadi, Mostafa",
-      "Khamenei, Ali",
-      "Economic Conditions and Trends",
-      "Tehran (Iran)"
-    ]
-  },
-  {
-    "title": "Roof Collapses at Delhi Airport Terminal Amid Storms and Heavy Rain",
-    "link": "https://www.nytimes.com/2024/06/27/world/asia/india-delhi-airport-roof-collapse.html",
-    "summary": "At least one person was killed when parts of the roof caved in and crushed vehicles at Indira Gandhi airport in New Delhi, according to an official. All domestic departures were suspended.",
-    "author": "Victoria Kim and Suhasini Raj",
-    "published": "Fri, 28 Jun 2024 08:27:45 +0000",
-    "tags": [
-      "Roofs",
-      "Airports",
-      "Rain",
-      "Stations and Terminals (Passenger)",
-      "Delhi (India)",
-      "New Delhi (India)",
-      "India"
-    ]
-  },
-  {
-    "title": "President Luis Arce of Bolivia Confronts a Coup Attempt, and Evo Morales",
-    "link": "https://www.nytimes.com/2024/06/27/world/americas/bolivia-coup-attempt-luis-arce.html",
-    "summary": "After facing down the general who tried to oust him, President Luis Arce is battling a more formidable figure, Evo Morales, a former president who wants to reclaim power.",
-    "author": "Julie Turkewitz, María Silvia Trigo and Genevieve Glatsky",
-    "published": "Sat, 29 Jun 2024 21:04:09 +0000",
-    "tags": [
-      "Bolivia",
-      "Arce, Luis",
-      "Morales, Evo",
-      "Zuniga, Juan Jose",
-      "Coups D'Etat and Attempted Coups D'Etat",
-      "Politics and Government",
-      "Defense and Military Forces",
-      "Elections",
-      "Demonstrations, Protests and Riots"
-    ]
-  },
-  {
-    "title": "These Are the Officials Selected for the Top E.U. Jobs",
-    "link": "https://www.nytimes.com/2024/06/27/world/europe/eu-top-officials-selected.html",
-    "summary": "Europe will need to navigate turmoil at home and a potential Trump presidency abroad. These people were picked to steer its institutions for the next five years.",
-    "author": "Matina Stevis-Gridneff",
-    "published": "Thu, 27 Jun 2024 21:39:30 +0000",
+    "published": "Fri, 28 Jun 2024 19:50:16 +0000",
     "tags": [
       "Politics and Government",
-      "International Relations",
-      "Appointments and Executive Changes",
-      "Borrell Fontelles, Josep",
-      "Costa, Antonio (1961- )",
-      "Kallas, Kaja (1977- )",
-      "Belgium",
-      "Ukraine",
-      "von der Leyen, Ursula"
-    ]
-  },
-  {
-    "title": "Friday Briefing: What to Watch in the French Election",
-    "link": "https://www.nytimes.com/2024/06/27/world/asia/france-iran-us-debate-election-asia.html",
-    "summary": "Also, the upcoming U.S. presidential debate and the vote in Iran.",
-    "author": "Amelia Nierenberg",
-    "published": "Thu, 27 Jun 2024 20:55:56 +0000",
-    "tags": [
-      "Far East, South and Southeast Asia and Pacific Areas"
-    ]
-  },
-  {
-    "title": "Taiwanese Are Told to Avoid China After It Threatens Independence Backers",
-    "link": "https://www.nytimes.com/2024/06/27/world/asia/taiwan-china-travel-warning.html",
-    "summary": "Beijing released new rules calling for execution of “diehard” Taiwanese independence supporters, as hostilities surrounding Taiwan’s status rise.",
-    "author": "Eve Sampson",
-    "published": "Thu, 27 Jun 2024 20:12:48 +0000",
-    "tags": [
-      "Taiwan",
-      "China",
-      "Territorial Disputes",
-      "Lai Ching-te",
-      "International Relations",
-      "United States International Relations",
-      "Politics and Government"
-    ]
-  },
-  {
-    "title": "Critically Ill Children Allowed to Leave Gaza for First Time Since May",
-    "link": "https://www.nytimes.com/2024/06/27/world/middleeast/gaza-medical-evacuation-children.html",
-    "summary": "Israel said the operation was carried out in coordination with the U.S. and others, and that 68 people, including sick and injured patients and their escorts, were allowed to leave.",
-    "author": "Aaron Boxerman",
-    "published": "Sat, 29 Jun 2024 21:54:26 +0000",
-    "tags": [
-      "Egypt",
-      "Rafah (Gaza Strip)",
-      "Gaza Strip",
-      "Israel",
-      "Israel-Gaza War (2023- )",
-      "Palestinians",
-      "Evacuations and Evacuees"
-    ]
-  },
-  {
-    "title": "Study Finds Small Streams, Recently Stripped of Protections, Are a Big Deal",
-    "link": "https://www.nytimes.com/2024/06/27/climate/small-streams-pollution-supreme-court.html",
-    "summary": "Half of the water flowing through regional river basins starts in so-called ephemeral streams. Last year, the Supreme Court curtailed federal protections for these waterways.",
-    "author": "Brad Plumer",
-    "published": "Thu, 27 Jun 2024 18:00:11 +0000",
-    "tags": [
-      "Supreme Court (US)",
-      "Regulation and Deregulation of Industry",
-      "Water Pollution",
-      "Science (Journal)",
-      "Clean Water Act",
-      "Environmental Protection Agency"
-    ]
-  },
-  {
-    "title": "As Iran Picks a President, a Nuclear Shift: Open Talk About Building the Bomb",
-    "link": "https://www.nytimes.com/2024/06/27/us/politics/iran-president-nuclear-bomb.html",
-    "summary": "Iran has expanded its most sensitive nuclear production site in recent weeks. And for the first time, some leaders are dropping their insistence that the nuclear program is for peaceful purposes.",
-    "author": "David E. Sanger and Farnaz Fassihi",
-    "published": "Thu, 27 Jun 2024 18:51:01 +0000",
-    "tags": [
-      "International Relations",
-      "United States International Relations",
-      "Israel-Gaza War (2023- )",
-      "Nuclear Weapons",
-      "United States Politics and Government",
-      "Arms Control and Limitation and Disarmament",
-      "Uranium",
-      "International Atomic Energy Agency",
-      "Iran",
-      "Israel",
-      "Middle East"
-    ]
-  },
-  {
-    "title": "At Least 750,000 on Brink of Starvation and Death in Sudan, Experts Warn",
-    "link": "https://www.nytimes.com/2024/06/27/world/africa/sudan-famine-starvation.html",
-    "summary": "A devastating civil war is pushing the country toward a full-blown famine, according to the international body that measures hunger.",
-    "author": "Declan Walsh",
-    "published": "Thu, 27 Jun 2024 19:27:27 +0000",
-    "tags": [
-      "Sudan",
-      "War and Armed Conflicts",
-      "Civilian Casualties",
-      "Humanitarian Aid",
-      "Famine",
-      "Rapid Support Forces (Sudan)",
-      "Darfur (Sudan)",
-      "Khartoum (Sudan)",
-      "United Nations"
-    ]
-  },
-  {
-    "title": "Kenya Protesters Call for President to Resign Despite His Withdrawal of the Tax Bill",
-    "link": "https://www.nytimes.com/2024/06/27/world/africa/kenya-protests-taxes-president-ruto.html",
-    "summary": "The demonstrations were held despite his withdrawal of the tax bill that sparked days of protests. Some activists, fearing more bloodshed, warned people not to march to the president’s official residence.",
-    "author": "Abdi Latif Dahir",
-    "published": "Thu, 27 Jun 2024 23:26:39 +0000",
-    "tags": [
-      "Kenya",
-      "Ruto, William",
-      "Nairobi (Kenya)",
-      "Kisumu (Kenya)",
-      "International Monetary Fund",
-      "Mombasa (Kenya)",
-      "Eldoret (Kenya)"
-    ]
-  },
-  {
-    "title": "The Last Stand of the Woolly Mammoths",
-    "link": "https://www.nytimes.com/2024/06/27/science/mammoth-genes-wrangel.html",
-    "summary": "The species survived on an island north of Siberia for thousands of years, scientists reported, but were most likely plagued by genetic abnormalities.",
-    "author": "Carl Zimmer",
-    "published": "Thu, 27 Jun 2024 15:13:23 +0000",
-    "tags": [
-      "Mammoths (Animals)",
-      "Endangered and Extinct Species",
-      "Fossils",
-      "Paleontology",
-      "Genetics and Heredity",
-      "Research",
-      "DNA (Deoxyribonucleic Acid)",
-      "Biology and Biochemistry",
-      "Wrangel Island (Russia)",
-      "Ice Age",
-      "your-feed-science"
-    ]
-  },
-  {
-    "title": "Russian Casualties in Ukraine Mount, in a Brutal Style of Fighting",
-    "link": "https://www.nytimes.com/2024/06/27/us/politics/russia-casualties-ukraine-war.html",
-    "summary": "More than 1,000 Russian soldiers in Ukraine were killed or wounded on average each day in May, according to NATO and Western military officials.",
-    "author": "Julian E. Barnes, Eric Schmitt and Marc Santora",
-    "published": "Thu, 27 Jun 2024 14:38:54 +0000",
-    "tags": [
-      "Russian Invasion of Ukraine (2022)",
-      "Defense and Military Forces",
-      "Russia",
-      "Ukraine",
-      "Deaths (Fatalities)"
-    ]
-  },
-  {
-    "title": "How to Escape From the Russian Army",
-    "link": "https://www.nytimes.com/2024/06/27/world/asia/escape-from-russian-army.html",
-    "summary": "Facing grim job prospects, a young Nepali signed up to join Russia’s military, which sent him to fight in Ukraine. His ordeal of combat, injury and escape turned into a tale worthy of Hollywood.",
-    "author": "Bhadra Sharma and Jeffrey Gettleman",
-    "published": "Fri, 28 Jun 2024 19:03:44 +0000",
-    "tags": [
-      "Russian Invasion of Ukraine (2022)",
-      "Russia",
-      "Defense and Military Forces",
-      "Draft and Recruitment (Military)",
-      "Human Trafficking",
-      "Nepal",
-      "Ukraine",
-      "Content Type: Personal Profile",
-      "Desertion (Military)"
-    ]
-  },
-  {
-    "title": "China Levels Graft Charges Against Former Defense Ministers",
-    "link": "https://www.nytimes.com/2024/06/27/world/asia/china-military-corruption.html",
-    "summary": "The two generals were accused of taking huge bribes and of corruption that reached into the armaments sector, indicating that the country’s military has not shaken off old habits.",
-    "author": "Chris Buckley",
-    "published": "Thu, 27 Jun 2024 13:56:57 +0000",
-    "tags": [
-      "Defense and Military Forces",
-      "Corruption (Institutional)",
-      "Ethics and Official Misconduct",
-      "Bribery and Kickbacks",
-      "Central Military Commission (China)",
-      "Communist Party of China",
-      "People's Liberation Army (China)",
-      "Li Shangfu",
-      "Wei Fenghe",
-      "Xi Jinping",
-      "China"
-    ]
-  },
-  {
-    "title": "Will Extreme Heat Hold Back Saudi Arabia and Other Gulf States?",
-    "link": "https://www.nytimes.com/2024/06/27/world/middleeast/gulf-states-heat-climate-change.html",
-    "summary": "The high temperatures blamed for the deaths of pilgrims in Saudi Arabia are taking a broad toll in countries that have spent vast sums to attract tourists and investors.",
-    "author": "Ben Hubbard",
-    "published": "Thu, 27 Jun 2024 13:07:44 +0000",
-    "tags": [
-      "Pilgrimages",
-      "Global Warming",
-      "Heat and Heat Waves",
-      "Deaths (Fatalities)",
-      "Air Conditioning",
-      "Bahrain",
-      "Doha (Qatar)",
-      "Kuwait",
-      "Mecca (Saudi Arabia)",
-      "Middle East",
-      "Saudi Arabia",
-      "Persian Gulf",
-      "Qatar"
-    ]
-  },
-  {
-    "title": "Israel Orders More Evacuations in Gaza as Military Fights Hamas in Shajaiye",
-    "link": "https://www.nytimes.com/2024/06/27/world/middleeast/gaza-israel-hamas-evacuations-strikes.html",
-    "summary": "Palestinian officials and residents described strikes and blasts as Israel’s public broadcaster reported that the Israeli military had returned to fight Hamas in Gaza City’s east.",
-    "author": "Hiba Yazbek, Ephrat Livni, Ameera Harouda and Eric Nagourney",
-    "published": "Fri, 28 Jun 2024 19:36:57 +0000",
-    "tags": [
-      "Israel-Gaza War (2023- )",
-      "Palestinians",
-      "Evacuations and Evacuees",
-      "Hamas",
-      "Netanyahu, Benjamin",
-      "Gaza Strip"
-    ]
-  },
-  {
-    "title": "Israeli Soldier Is Killed During Raid in West Bank, IDF Says",
-    "link": "https://www.nytimes.com/2024/06/27/world/middleeast/israel-jenin-soldier-killed-west-bank-raid.html",
-    "summary": "As well as the officer who died, another was severely wounded during the operation in Jenin, a bastion of armed resistance to Israel’s occupation. One Palestinian was also reported wounded.",
-    "author": "Matthew Mpoke Bigg",
-    "published": "Thu, 27 Jun 2024 12:05:45 +0000",
-    "tags": [
-      "Israel-Gaza War (2023- )",
-      "Palestinians",
-      "Fatah Revolutionary Council",
-      "Palestinian Authority",
-      "Jenin (West Bank)"
-    ]
-  },
-  {
-    "title": "How a Tiny Circle of Advisers Helped Prod Macron to Call France’s Snap Election",
-    "link": "https://www.nytimes.com/2024/06/27/world/europe/france-macron-snap-election-decision.html",
-    "summary": "President Emmanuel Macron’s governing style has always been intensely top-down. But with far-right nationalists in France closing in on power, some believe he may have gone too far this time.",
-    "author": "Roger Cohen",
-    "published": "Thu, 27 Jun 2024 10:17:36 +0000",
-    "tags": [
-      "Macron, Emmanuel (1977- )",
-      "France",
-      "European Parliament",
-      "National Rally (France)",
-      "Politics and Government",
-      "Elections",
-      "Immigration and Emigration",
-      "Legislatures and Parliaments"
-    ]
-  },
-  {
-    "title": "Amsterdam Museum to Return a Matisse Work Sold Under Duress in World War II",
-    "link": "https://www.nytimes.com/2024/06/27/arts/stedelijk-museum-matisse-odalisque-restitution.html",
-    "summary": "The painting, “Odalisque,” was sold to the Stedelijk Museum in the early 1940s by a German-Jewish family desperate to escape the Nazis.",
-    "author": "Nina Siegal",
-    "published": "Thu, 27 Jun 2024 20:50:21 +0000",
-    "tags": [
-      "Art",
-      "Stedelijk Museum Amsterdam",
-      "Jews and Judaism",
-      "World War II (1939-45)",
-      "Holocaust and the Nazi Era",
-      "Collectors and Collections",
-      "Matisse, Henri",
-      "Netherlands"
-    ]
-  },
-  {
-    "title": "Shahjahan Bhuiya, Executioner Turned TikTok Star, Dies in Bangladesh",
-    "link": "https://www.nytimes.com/2024/06/27/world/asia/shahjahan-bhuiya-dead.html",
-    "summary": "He hanged high-profile inmates in exchange for a reduction in his own robbery and murder sentences, and became a social media sensation after his release.",
-    "author": "Saif Hasnat and Yan Zhuang",
-    "published": "Fri, 28 Jun 2024 20:51:19 +0000",
-    "tags": [
-      "Bhuiya, Shahjahan (1958-2024)",
-      "Deaths (Obituaries)",
-      "Capital Punishment",
-      "Prisons and Prisoners",
-      "Amnesties, Commutations and Pardons",
-      "Books and Literature",
-      "Bangladesh",
-      "Dhaka (Bangladesh)"
-    ]
-  },
-  {
-    "title": "Iranians Say, ‘We Have Been Going Backward’",
-    "link": "https://www.nytimes.com/2024/06/27/world/middleeast/iran-presidential-election.html",
-    "summary": "Iranians say they have little faith their votes in Friday’s presidential election will improve their lives, and many are planning to sit it out.",
-    "author": "Alissa J. Rubin",
-    "published": "Thu, 27 Jun 2024 12:20:47 +0000",
-    "tags": [
-      "Iran",
-      "Elections",
-      "Politics and Government",
-      "Polls and Public Opinion",
-      "Tehran (Iran)"
-    ]
-  },
-  {
-    "title": "Julian Assange’s Polarizing Legacy: From Hacker to Hunted Figure",
-    "link": "https://www.nytimes.com/2024/06/27/world/europe/julian-assange-wikileaks-legacy.html",
-    "summary": "The co-founder of WikiLeaks was a heroic crusader for truth to many people for publishing government secrets. To others, he was a reckless leaker endangering lives.",
-    "author": "Mark Landler and Megan Specia",
-    "published": "Fri, 28 Jun 2024 05:14:28 +0000",
-    "tags": [
-      "Classified Information and State Secrets",
-      "United States International Relations",
-      "International Relations",
-      "WikiLeaks",
-      "Assange, Julian P",
-      "Great Britain"
-    ]
-  },
-  {
-    "title": "Trump Eyes Bigger Trade War in Second Term",
-    "link": "https://www.nytimes.com/2024/06/27/us/politics/trump-trade-tariffs-imports.html",
-    "summary": "The former president’s past tariffs raised prices for consumers and businesses, economists say. His next plan could tax 10 times as many imports.",
-    "author": "Ana Swanson and Alan Rappeport",
-    "published": "Thu, 27 Jun 2024 09:03:40 +0000",
-    "tags": [
-      "Trump, Donald J",
-      "International Trade and World Market",
-      "China",
-      "Customs (Tariff)",
-      "United States Economy",
-      "United States Politics and Government",
       "Presidential Election of 2024",
-      "Inflation (Economics)",
-      "European Union",
+      "Debates (Political)",
+      "Conservative Party (Great Britain)",
+      "Labour Party (Great Britain)",
+      "Sunak, Rishi (1980- )",
+      "Starmer, Keir",
       "Biden, Joseph R Jr",
-      "Europe",
-      "United States International Relations"
+      "Trump, Donald J",
+      "Great Britain",
+      "Elections"
     ]
-  },
-  {
-    "title": "The Etiquette of Remembering Your Friend’s Pet’s Name",
-    "link": "https://www.nytimes.com/2024/06/27/science/pets-names-etiquette.html",
-    "summary": "At a barbershop in Colorado, stylists and customers discussed a matter of social protocol.",
-    "author": "Matt Richtel and Theo Stroomer",
-    "published": "Thu, 27 Jun 2024 09:00:20 +0000",
-    "tags": [
-      "Names, Personal",
-      "Pets",
-      "Customs, Etiquette and Manners",
-      "Cats",
-      "Dogs",
-      "Colorado",
-      "your-feed-animals",
-      "your-feed-science"
-    ]
-  },
-  {
-    "title": "Thursday Briefing",
-    "link": "https://www.nytimes.com/2024/06/27/briefing/evan-gershkovich-trial-russia.html",
-    "summary": "Evan Gershkovich’s trial began in Russia.",
-    "author": "Daniel E. Slotnik",
-    "published": "Thu, 27 Jun 2024 04:02:04 +0000",
-    "tags": []
   }
 ]
