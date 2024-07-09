@@ -75,6 +75,7 @@ def text_to_number(text):
         number = word_to_number(word)
         if number is not None:
             if number >= 100:
+                current = 1
                 current *= number
             elif current == 0:
                 current = number
@@ -184,12 +185,12 @@ def clean_and_structure_response(content):
 @app.post('/gpt')
 def prompt(user_query: UserQuery):
     number_entity = extract_number(user_query.user_query.lower())
-    number_of_articles = number_entity[0] if number_entity else None
-    print(number_of_articles)
+    number_of_articles = sum(number_entity) if number_entity else None # Only correct for numbers less than 100
+    print('number_of_articles: ', number_of_articles)
 
     date_entity = extract_date(user_query.user_query.title())
     date = date_entity[0] if date_entity else None
-    print(date)
+    print('date: ', date_entity)
 
     category = extract_category(user_query.user_query)
 

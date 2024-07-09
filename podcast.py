@@ -88,3 +88,6 @@ if podcast_script:
     print(podcast_script)
 else:
     print("Failed to generate podcast script.")
+
+#ToDo: rather than using the first 5 articles, make sure openai uses and return a podcast script with only the today's articles
+#ToDo: refactor the codes to run all functions/ modules in main.py on a single click if possible
