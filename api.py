@@ -121,20 +121,26 @@ def extract_date(question):
 
     # Check for "today" and "yesterday" if not found as entities
     if "today" in question.lower() and not entities:
-        entities.append(today.strftime("%Y-%B-%d"))
+        entities.append(today.strftime("%Y-%m-%d"))
     elif "yesterday" in question.lower() and not entities:
         yesterday = today - timedelta(days=1)
-        entities.append(yesterday.strftime("%Y-%B-%d"))
+        entities.append(yesterday.strftime("%Y-%m-%d"))
 
     return entities
 
 
 def extract_category(question):
     doc = nlp(question)
-    for token in doc:
-        if token.pos_ == "NOUN" and token.text.lower() in [tag.lower() for news in news_database for tag in
-                                                           news['tags']]:
-            return token.text
+    query_tokens = [token.text.lower() for token in doc if token.pos_ in {"NOUN", "PROPN", "ADJ"}]
+
+    print(query_tokens)
+
+    for token in query_tokens:
+        for news in news_database:
+            for tag in news['tags']:
+                if token in tag.lower():
+                    return tag
+
     return None
 
 
@@ -189,7 +195,7 @@ def prompt(user_query: UserQuery):
     print('number_of_articles: ', number_of_articles)
 
     date_entity = extract_date(user_query.user_query.title())
-    date = date_entity[0] if date_entity else None
+    date = date_entity[0] if date_entity else None # day needs to be suffixed with 'th' so the day won't affect the no of articles too
     print('date: ', date_entity)
 
     category = extract_category(user_query.user_query)
